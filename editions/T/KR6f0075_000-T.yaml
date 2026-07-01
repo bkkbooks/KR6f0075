@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6f0075/t/v1/juan/0
+seq: 0
+front:
+  text: 無量壽經序胡吉藏撰夫法身虛玄非名相之形淨剎妙遠絕淨穢之域至妙之門非百是所是亦非百非所非真虛之道非有心之所託亦非無心之所會非能非所是穢亦淨以不二而二有本迹之稱存淨穢之教此是隨緣之意應物之門緣既有多種教亦恒沙莫算身復非一土有勝劣不同或現穢質令生厭心或示淨處使修勝善是以思惟夫人遇此惡緣厭累苦之世欣勝樂之地由是佛現金臺示十方界淨妙之國令此今緣撰取所樂夫人情感安養極樂如來廣說淨土依正勝果正業妙因故此經以不二為體若存胡音云佛陀槃遮阿梨耶阿彌陀佛陀修多羅此云覺者說觀無量壽覺者經胡漢兩存故云佛說觀無量壽佛經
+  hash: sha256:7bad47d04f58f732748ea7b7a79e53f8431f15952589866f1bd5068f6df94fdf
+  markers:
+  - {type: 序, offset: 0, content: 無量壽經序, id: KR6f0075_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀無量壽經義疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T37/T37n1752.xml
+    old_id: T37n1752
+hash: sha256:ac150bb94f1f5a10b08b48a169000bec7bbe4dfdf551271c516915a46491da6c
