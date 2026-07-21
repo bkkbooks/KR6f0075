@@ -21,17 +21,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0075_000.yaml, hash: 'sha256:988a88d37039c4154d2ec4d9b784f0a66e9ffc4312336f748acbc2e1497fc1b1'}
+  - {seq: 0, filename: KR6f0075_000.yaml, hash: 'sha256:9356133919d54aa4e35a55a0b87fde34fe26996859c424276a43662634bcf937'}
   - {seq: 1, filename: KR6f0075_001.yaml, hash: 'sha256:81d4efe0816a4ffbb032a41462422f9fd71f73943f837c381506d437f42788a5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0075_000.markers.yaml, hash: 'sha256:3dba31827de02e2df397958b37effeab840e6bd3602abb2086fedb3b1371d596'}
+  - {seq: 0, role: markers, filename: assets/KR6f0075_000.markers.yaml, hash: 'sha256:faec999f72336a26334fb739d88ac2dc91c83859a2c3186f9ee32685d4955e37'}
   - {seq: 1, role: markers, filename: assets/KR6f0075_001.markers.yaml, hash: 'sha256:51365fff04c5e8a8c0ce3f464bd21029c28b70f8a027b2cd73822ac3d29079d3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6f0075_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 無量壽經序
@@ -47,7 +47,7 @@ table_of_contents:
   label: 觀無量壽經義疏
   type: juan
   level: 1
-hash: sha256:5e4e14316d2721aa82662f76fa3fa8211e54cb8967884692ea2c873c42c3ba18
+hash: sha256:b493320571713887db74249bade95939ba1fe58c42b2bcfb20a30e7a57f36cfe
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

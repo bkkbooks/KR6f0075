@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0075_000-T.yaml, hash: 'sha256:ac150bb94f1f5a10b08b48a169000bec7bbe4dfdf551271c516915a46491da6c'}
+  - {seq: 0, filename: KR6f0075_000-T.yaml, hash: 'sha256:2ac77314619f46a207544e9d7abffed9176a578679534ac8e2d2dadaaf5b7ee6'}
   - {seq: 1, filename: KR6f0075_001-T.yaml, hash: 'sha256:cef7a466c7b4160b4b9f7a38aa474d3b0f9a1444190348ea1f9319d607734765'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0075_000-T.markers.yaml, hash: 'sha256:73cb2fe2e58f9c9546b906a001db8b45357bebf0313c973c3206835f65053af6'}
+  - {seq: 0, role: markers, filename: assets/KR6f0075_000-T.markers.yaml, hash: 'sha256:6461a21fc4f7a590936420c0530a6328a36829d540ead85a89eb5b8607460936'}
   - {seq: 1, role: markers, filename: assets/KR6f0075_001-T.markers.yaml, hash: 'sha256:ac085dd1454b2ca3a3751ea0a62bf89d7466a920765e2b4032d8f0cba87bae35'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6f0075_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 無量壽經序
@@ -45,4 +45,4 @@ table_of_contents:
   label: 觀無量壽經義疏
   type: juan
   level: 1
-hash: sha256:97ffaa840e01c5038cdcc285fae2706065dc26856831d24b3c038a11f4868401
+hash: sha256:1b15ac6be0630cf261b2eabb804a2cf7bab7912eabe2176b904e46b51dd273ea
